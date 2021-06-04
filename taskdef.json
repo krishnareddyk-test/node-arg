@@ -15,5 +15,5 @@
   }]
   }],
   "family": "jenkinsnodeapp",
-  "networkMode": "bridge",
+  "networkMode": "bridge"
 }
