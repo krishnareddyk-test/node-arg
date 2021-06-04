@@ -1,6 +1,6 @@
 {
- "requiresCompatibilites": [
-  "EXTERNAL"
+ "requiresCompatibilities": [
+    "EXTERNAL"
   ],
   "containerDefinitions": [{
   "name": "jenkinsnodeapp",
