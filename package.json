@@ -1,5 +1,6 @@
 {
-  "name": "node-app",
+  "name": "jenkinsnodeapp",
+  "family":"jenkinsnodeapp"
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trbaks/node-arg.git"
+    "url": "https://github.com/krishnareddyk-test/node-arg.git"
   },
   "keywords": [],
   "author": "",
